@@ -2,7 +2,7 @@
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
-**[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course**
+**[mlcourse.ai](https://mlcourse.ai) – Открытый курс по машинному обучениями**
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Slack](https://img.shields.io/badge/slack-ods.ai-orange)](https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500)
